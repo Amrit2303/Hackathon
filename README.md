@@ -15,3 +15,15 @@ Objective
 
 Your task at hand is to build a machine learning-based approach to predict the CTR of an email campaign.
 
+Train and Test Set
+
+
+Train and Test set contains different sets of email campaigns containing information about the email campaign. Train set includes the target variable click_rate and you need to predict the click_rate of an email campaign in the test set.
+
+
+Libraries used for solving the problem are</br>
+AutoML</br>
+Pandas</br>
+Mean Squared error</br>
+Root Mean Squared error</br>
+Mean Absolute error</br>
